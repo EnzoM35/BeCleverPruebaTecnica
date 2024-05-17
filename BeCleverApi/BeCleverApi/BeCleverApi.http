@@ -1,0 +1,6 @@
+@BeCleverApi_HostAddress = http://localhost:5110
+
+GET {{BeCleverApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
