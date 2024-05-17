@@ -7,12 +7,12 @@ Al ejecutar el proyecto, se abrirá el navegador con Swagger. Donde podremos con
 
 - Para ejecutar el primer servicio (register) vamos al endpoint POST/EmployeeControl, en el cual enviaremos un json del tipo:
 
-{
-  "employeeId": 0,
-  "date": "2024-05-17T18:45:34.048Z",
-  "registerType": "Ingreso",
-  "businessLocationId": 0
-}
+>{
+>  "employeeId": 0,
+>  "date": "2024-05-17T18:45:34.048Z",
+>  "registerType": "Ingreso",
+>  "businessLocationId": 0
+>}
 
 
 
