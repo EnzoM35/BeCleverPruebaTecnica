@@ -8,10 +8,10 @@
 **Para ejecutar el primer servicio (register) vamos al endpoint POST/EmployeeControl, en el cual enviaremos un json del tipo:**
 ```
 {
-  "employeeId": 0,
+  "employeeId": 1,
   "date": "2024-05-17T18:45:34.048Z",
   "registerType": "Ingreso",
-  "businessLocationId": 0
+  "businessLocationId": 2
 }
 ``` 
 
