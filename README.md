@@ -17,14 +17,16 @@
 
 **Para ejecutar el segundo servicio (search) vamos al endpoint GET/EmployeeControl/search, en el cual rellenamos los campos.**<br>
 
-  -dateFrom y dateTo son obligatorios.<br>
-  -descriptionFilter filtra por nombre o apellido (opcional)<br>
-  -businessLocationsId filtra por sucursal (1 = BeClever España; 2 = BeClever Argentina; 3 = BeClever Brasil) (opcional)<br>
+  - dateFrom y dateTo son obligatorios.<br>
+  
+  - descriptionFilter filtra por nombre o apellido (opcional)<br>
+  
+  - businessLocationsId filtra por sucursal (1 = BeClever España; 2 = BeClever Argentina; 3 = BeClever Brasil) (opcional)<br>
 
 
 **Para ejecutar el tercer servicio (average) vamos al endpoint GET/EmployeeControl/average, en el cual rellenamos los campos**<br>
 
- -dateFrom y dateTo para poner las fechas.
+ - dateFrom y dateTo para poner las fechas.
 
 
 
